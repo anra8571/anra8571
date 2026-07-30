@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Anna! I'm a student at CU Boulder studying computer science, mathematics, and philosophy. I have particular interests in machine learning and artificial intelligence, so feel free to reach out at anna.rahn@colorado.edu!
+Hi, my name is Anna! I'm consultant implementing full-stack software solutions and AI solutions for a variety of clients. I graduated with my B.S./M.S. in Computer Science from CU Boulder and studied computer science, mathematics, and philosophy. I have particular interests in machine learning and artificial intelligence, so feel free to reach out!
 
 
 ## 🌐 Socials:
