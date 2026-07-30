@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi, my name is Anna! I'm consultant implementing full-stack software solutions and AI solutions for a variety of clients. I graduated with my B.S./M.S. in Computer Science from CU Boulder and studied computer science, mathematics, and philosophy. I have particular interests in machine learning and artificial intelligence, so feel free to reach out!
+Hi, my name is Anna! I'm a consultant implementing full-stack software solutions and AI solutions for a variety of clients. I graduated with my B.S./M.S. in Computer Science from CU Boulder and studied computer science, mathematics, and philosophy. I have particular interests in machine learning and artificial intelligence, so feel free to reach out!
+
+Outside of my professional life, I enjoy growing plants, entertaining my cat, swing dancing, and cooking yummy food. I'm creative and love the outdoors!
 
 
 ## 🌐 Socials:
